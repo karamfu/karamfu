@@ -5,8 +5,8 @@
 ## 🚀 Interests ##
 
 * Programming
-* 3D Art and modeling
-* Web Development
+* 3D art and modeling
+* Web development
 
 ## 💻 Languages & Frameworks ##
 
