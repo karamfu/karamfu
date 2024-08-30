@@ -1,16 +1,19 @@
-I'm a first-year Software Engineering student at Carleton University, passionate about coding and technology.
-💡 Interests
+# 👋 Hello! I'm Karam #
 
-    Programming
-    3D Art
-    Web Development
+🎓 First-Year Software Engineering Student at Carleton University
 
-💻 Languages & Frameworks
+## 🚀 Interests ##
 
-    Python
-    Java
-    HTML & CSS
-    JavaScript
-    Tkinter
-    Kotlin (Currently Learning)
-    ReactJS (Currently Learning)
+* Programming
+* 3D Art
+* Web Development
+
+## 💻 Languages & Frameworks ##
+
+* Python
+* Java
+* HTML & CSS
+* JavaScript
+* Tkinter
+* Kotlin (Currently Learning)
+* ReactJS (Currently Learning)
