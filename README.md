@@ -15,5 +15,6 @@
 * HTML & CSS
 * JavaScript
 * Tkinter
+* Pygame
 * Kotlin (Currently Learning)
 * ReactJS (Currently Learning)
