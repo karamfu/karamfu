@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Karam #
 
-🎓 First-Year Software Engineering Student at Carleton University
+🎓 Second-Year Software Engineering Student at Carleton University
 
 ## 🚀 Interests ##
 
