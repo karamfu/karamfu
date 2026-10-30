@@ -1,10 +1,10 @@
 # 👋 Hello! I'm Karam #
 
-🎓 Second-Year Software Engineering Student at Carleton University
+🎓 Third-Year Software Engineering Student at Carleton University
 
 ## 🚀 Interests ##
 
-* Programming
+* Software Engineering
 * 3D art and modeling
 * Web development
 
@@ -12,9 +12,9 @@
 
 * Python
 * Java
-* HTML & CSS
+* C
 * JavaScript
-* Tkinter
-* Pygame
-* Kotlin (Currently Learning)
-* ReactJS (Currently Learning)
+* TypeScript
+* HTML/CSS
+* Express.js
+
